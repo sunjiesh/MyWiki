@@ -1,1 +1,3 @@
-This is my first wiki using the vimwiki.
+= Sun's Wiki =
+== Study ==
+[[Linux/index|Linux]]
