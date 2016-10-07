@@ -1,2 +1,2 @@
 = Linux =
-*[[LinuxApplication|我的Linux常用应用列表]]
+*[[LinuxApplication|My Linux Application]]
