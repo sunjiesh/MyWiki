@@ -1,0 +1,22 @@
+== Gitolite3 使用 ==
+
+=== 主要通过如下几步 ===
+==== 通过ssh-keygen生成密钥 ====
+{{{
+ssh-keygen
+cp .ssh/rd_rsa.pub /tmp
+}}}
+==== 新建Git用户 ====
+{{{
+useradd git
+}}}
+
+==== 安装Gitolite3 ====
+{{{
+apt-get install gitolite3
+}}}
+==== 使用Git用户权限操作 ====
+{{{
+su - git
+gitolite setup --pubkey /tmp/id_rsa.pub
+}}}
