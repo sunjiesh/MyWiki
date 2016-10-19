@@ -1,3 +1,5 @@
 = Sun's Wiki =
 == Study ==
-[[Linux/index|Linux]]
+[[linux/index|Linux]]
+[[git/index|Git]]
+
