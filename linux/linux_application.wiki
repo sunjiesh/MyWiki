@@ -21,3 +21,8 @@
 | Type     | Name  | Support OS | Describe       |
 |----------|-------|------------|----------------|
 | Terminal | Tilda | Linux      | 下拉式终端工具 |
+
+=== Network  ===
+| Type    | Name | Support OS | Describe   |
+|---------|------|------------|------------|
+| Browser | Lynx | Linux      | 终端浏览器 |
