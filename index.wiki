@@ -2,4 +2,5 @@
 == Study ==
 [[linux/index|Linux]]
 [[git/index|Git]]
+[[vim/index|Vim]]
 
