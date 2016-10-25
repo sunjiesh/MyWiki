@@ -1,0 +1,7 @@
+=== Windows10 Subsystem For Linux ===
+==== Turn Windows features on ====
+==== Enable the Windows Subsystem for Linux feature (command-line) ====
+Open a PowerShell prompt as administrator and run:
+{{{
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+}}}
