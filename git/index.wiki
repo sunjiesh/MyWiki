@@ -1,2 +1,2 @@
-= Linux =
+= Git =
 *[[usage_of_gitolite3|Gitolite3使用]]
