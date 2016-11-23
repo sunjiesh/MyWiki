@@ -14,8 +14,10 @@ may be created by mistake. For example,
   examine these refs and maybe delete them. Turn this message off by
   running "git config advice.objectNameWarning false"
 }}}
-A:{{{
+A:
+{{{
 执行命令：
 git tag -d b8a9ef99a2b0dd350ef9bf4c865a5111837ae56a
 git push origin :refs/tags/b8a9ef99a2b0dd350ef9bf4c865a5111837ae56a
 }}}
+
