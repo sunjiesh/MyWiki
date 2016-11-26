@@ -18,9 +18,11 @@
 
 
 === System  ===
-| Type     | Name  | Support OS | Describe       |
-|----------|-------|------------|----------------|
-| Terminal | Tilda | Linux      | 下拉式终端工具 |
+| Type       | Name  | Support OS | Describe       |
+|------------|-------|------------|----------------|
+| Terminal   | Tilda | Linux      | 下拉式终端工具 |
+| FileManage | sshfs | Linux      |                |
+
 
 === Network  ===
 | Type    | Name | Support OS | Describe   |
