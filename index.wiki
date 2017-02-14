@@ -1,4 +1,4 @@
-= Sun's Wiki =
+= Jack's Wiki =
 == Study ==
 [[linux/index|Linux]]
 [[git/index|Git]]
