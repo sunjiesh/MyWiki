@@ -30,3 +30,8 @@
 | Type    | Name | Support OS | Describe   |
 |---------|------|------------|------------|
 | Browser | Lynx | Linux      | 终端浏览器 |
+
+=== Picture ===
+| Type | Name | Support OS | Describe     |
+|------|------|------------|--------------|
+| View | eog  | Linux      | 图片浏览工具 |
