@@ -27,9 +27,11 @@
 
 
 === Network  ===
-| Type    | Name | Support OS | Describe   |
-|---------|------|------------|------------|
-| Browser | Lynx | Linux      | 终端浏览器 |
+| Type     | Name             | Support OS | Describe          |
+|----------|------------------|------------|-------------------|
+| Browser  | Lynx             | Linux      | 终端浏览器        |
+| Download | transmission-cli | Linux      | Download Software |
+
 
 === Picture ===
 | Type | Name | Support OS | Describe     |
