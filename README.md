@@ -12,3 +12,8 @@ let g:vimwiki_list = [{'path': '~/github-workspaces/MyWiki',
     \    'template_default': "default",
     \    'template_ext': '.tpl' }]
 ```
+
+创建软链接
+```shell
+ln -s ~/github-workspaces/MyWiki/static ~/vimwiki_html/static
+```
