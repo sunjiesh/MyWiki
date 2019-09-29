@@ -41,6 +41,7 @@ categories: Linux
 | Type | Name | Support OS | Describe |
 |------|------|------------|----------|
 | Browser  | Lynx             | Linux      | 终端浏览器        |
+| Browser  | Opera            | Linux      | 终端浏览器        |
 | Download | transmission-cli | Linux      | Download Software |
 
 
