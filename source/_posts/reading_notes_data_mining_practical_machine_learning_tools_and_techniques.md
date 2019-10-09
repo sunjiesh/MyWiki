@@ -40,3 +40,9 @@ Info([2,3])=-2/5Xlog2/5-3/5Xlog3/5=-0.4*(-1.3219)-0.6*(-0.737)=0.971bits
 作用后的信息熵计算公式
 
 ![](https://www.ibm.com/developerworks/cn/analytics/library/ba-1507-decisiontree-algorithm/img03.png "公式")
+
+#### COVERING ALGORITHMS: CONSTRUCTING RULES
+与决策树相同点与不同点
+
+
+#### MINING ASSOCIATION RULES
