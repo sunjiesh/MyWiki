@@ -34,6 +34,7 @@ categories: Linux
 | Terminal   | Tilda  | Linux      | 下拉式终端工具 |
 | FileManage | sshfs  | Linux      |                |
 | FileManage | ranger | Linux      | 文件管理工具   |
+| | tldr | Linux | |
 
 
 
