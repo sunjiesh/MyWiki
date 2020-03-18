@@ -14,6 +14,7 @@ categories: Linux
 | 虚拟机 |VirtualBox| Linux、Windows、Mac | 虚拟机软件                       |
 | | MacDown | Mac | Markdown editor |
 | | Postman | MAC | |
+| | Xmind | MAC | |
 
 
 
