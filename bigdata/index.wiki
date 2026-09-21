@@ -1,2 +1,0 @@
-= Bigdata =
-*[[install_hadoop|Install Hadoop]]
